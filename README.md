@@ -1,7 +1,10 @@
 # PUC_Estruturas_De_Dados_Avan-adas_Trabalho_G2_2021.1
 Segundo trabalho da matéria de Estruturas de Dados Avançadas, cursada no período de 2021.1 na PUC-Rio
 
-TRABALHO 2 – SUGESTÃO DE SUFIXOS - DICIONÁRIO 
+TRABALHO 2 – SUGESTÃO DE SUFIXOS - DICIONÁRIO
+
+#Grupo: João Gabriel Nielsen Bernardo Ruiz Fernandes
+
 #Descrição:
 O Trabalho 2 consiste em implementar uma árvore de prefixo (Trie) que pode ser 
 utilizada para sugerir palavras de um dicionário. A implementação é semelhante a 
