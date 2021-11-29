@@ -4,8 +4,7 @@ Segundo trabalho da matéria de Estruturas de Dados Avançadas, cursada no perí
 TRABALHO 2 – SUGESTÃO DE SUFIXOS - DICIONÁRIO
 
 #Grupo:
-João Gabriel Nielsen 
-Bernardo Ruiz Fernandes
+João Gabriel Nielsen e Bernardo Ruiz Fernandes
 
 #Descrição:
 O Trabalho 2 consiste em implementar uma árvore de prefixo (Trie) que pode ser 
